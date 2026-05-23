@@ -12,4 +12,4 @@ Sometimes Microsoft Defender SmartScreen blocks from running scripts that are do
 
 Again sometime a window pops up. Just click on "Run"
 
-If the downloader still don't opens, right click on AutoRun.ps1, properties and check on "Unblock"
+If the downloader still don't opens, right click on AutoRun.ps1, "Properties" and check on "Unblock"
